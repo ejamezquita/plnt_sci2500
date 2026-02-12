@@ -1,26 +1,21 @@
-# Introduction
+# Data Science for Plant Science
 
-I am a book about ... something! Wikipedia has [information about books](wiki:book): hover over the link for more information.
+## Important Course Information
 
-% An admonition containing a note
-:::{note}
-Books are usually written on paper ... But Jupyter Book can create _websites_!
-:::
+* [Course Syllabus](https://docs.google.com/document/d/1P_Cxa_CNLTI9mWQ19ybqMIJtg3pwe1L_kBq0HJouaJg/edit?usp=sharing). You'll need to access it using your MU Google account.
+* [Installing miniconda](https://docs.google.com/presentation/d/1Mhs0Kf3nMLyemD9hFBCv6zWG50MAAUywM6QzlKTN90w/edit?usp=sharing) (Make sure to go through this before the first day of class!)
+* [Installing Jupyter](https://docs.google.com/presentation/d/1D0vkQScLo_Cnjyzx_7deqT2QGF4d9iZJyaxkT7-gsBM/edit?usp=sharing). You must install miniconda first.
 
-If you sold 100 books at \$10 per book, you'd have \$1000 dollars according to [](#eq:book). If instead you publish your Jupyter Book to the web for free, you'd have \$0 dollars!
+---
 
-% An arbitrary math equation
-:::{math}
-:name: eq:book
+## Instructor Information {#instructor-information}
 
-x \times y = z
-:::
+### Lead Instructor
 
-Sometimes when reading it is helpful to foster a _tranquil_ environment. The image in [](#fig:mountains) would be a perfect spot!
+**Erik Am&eacute;zquita**\
+[eah4d@missouri.edu](mailto:eah4d@missouri.edu)\
+Assistant Professor, Division of Plant Science &amp; Technology \
+Adjunct Professor, Department of Mathematics
 
-% A figure of a photograph of some mountains, followed by a caption
-:::{figure} https://github.com/rowanc1/pics/blob/main/mountains.png?raw=true
-:label: fig:mountains
 
-A photograph of some beautiful mountains to look at whilst reading.
-:::
+---

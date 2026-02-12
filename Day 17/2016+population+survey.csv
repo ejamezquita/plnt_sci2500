@@ -1,0 +1,121 @@
+site,sample ID,meters from Salix,no. flwrs on inflorescence,mean no. pv pollen grains,mean no. Salix pollen,frequency of Salix pollen
+Pennsylvania Mountain,1.1,6.2,5,314,73,0.188630491
+Pennsylvania Mountain,1.2,4.65,11,187,51,0.214285714
+Pennsylvania Mountain,1.3,15,8,241,149,0.382051282
+Pennsylvania Mountain,1.4,18.1,4,185,88,0.322344322
+Pennsylvania Mountain,1.5,11.9,7,129,60,0.317460317
+Pennsylvania Mountain,1.6,8.45,13,263,22,0.077192982
+Pennsylvania Mountain,1.7,16.2,8,344,337,0.494860499
+Pennsylvania Mountain,1.8,0,13,457,0,0
+Pennsylvania Mountain,1.9,11.45,8,98,0,0
+Pennsylvania Mountain,1.1,16.25,6,27,35,0.564516129
+Pennsylvania Mountain,1.11,2.6,8,276,322,0.538461538
+Pennsylvania Mountain,1.12,1.85,6,222,5,0.022026432
+Pennsylvania Mountain,1.13,12.6,2,265,0,0
+Pennsylvania Mountain,1.14,11,3,151,15,0.090361446
+Pennsylvania Mountain,1.15,6,4,434,213,0.329211747
+Pennsylvania Mountain,2.1,6.5,2,554,271,0.328484848
+Pennsylvania Mountain,2.2,3.95,5,277,7,0.024647887
+Pennsylvania Mountain,2.3,10.85,3,86,8,0.085106383
+Pennsylvania Mountain,2.4,17.4,9,309,2,0.006430868
+Pennsylvania Mountain,2.5,3.75,7,502,0,0
+Pennsylvania Mountain,2.6,13.8,8,1151,0,0
+Pennsylvania Mountain,2.7,1.95,6,611,0,0
+Pennsylvania Mountain,2.8,5.4,5,639,4,0.00622084
+Pennsylvania Mountain,2.9,13.65,6,223,0,0
+Pennsylvania Mountain,2.1,4.85,12,541,7,0.012773723
+Pennsylvania Mountain,2.11,8.95,3,813,1,0.001228501
+Pennsylvania Mountain,2.12,1.75,4,506,29,0.054205607
+Pennsylvania Mountain,2.13,4.5,4,528,2,0.003773585
+Pennsylvania Mountain,2.14,3.3,4,494,4,0.008032129
+Pennsylvania Mountain,2.15,16.25,7,257,1,0.003875969
+Weston Pass,1.1,8.85,9,150,4,0.025974026
+Weston Pass,1.2,4.6,4,196,2,0.01010101
+Weston Pass,1.3,5.05,11,212,2,0.009345794
+Weston Pass,1.4,7.95,7,233,2,0.008510638
+Weston Pass,1.5,7.1,5,114,14,0.109375
+Weston Pass,1.6,15.65,5,176,62,0.260504202
+Weston Pass,1.7,6.55,5,293,2,0.006779661
+Weston Pass,1.8,13,7,884,8,0.00896861
+Weston Pass,1.9,1.95,15,463,40,0.079522863
+Weston Pass,1.1,6.25,8,90,0,0
+Weston Pass,2.1,5.75,9,182,0,0
+Weston Pass,2.2,4.85,6,291,0,0
+Weston Pass,2.3,2.9,9,236,1,0.004219409
+Weston Pass,2.4,3.75,6,381,51,0.118055556
+Weston Pass,2.5,6.1,5,351,0,0
+Weston Pass,2.6,8,2,292,1,0.003412969
+Weston Pass,2.7,12,4,382,58,0.131818182
+Weston Pass,2.8,3.55,4,321,5,0.015337423
+Weston Pass,2.9,6.55,5,305,1,0.003267974
+Weston Pass,2.1,3.8,5,298,5,0.01650165
+Weston Pass,2.11,12.5,2,221,0,0
+Weston Pass,2.12,2.9,3,429,1,0.002325581
+Weston Pass,2.13,5.55,5,228,8,0.033898305
+Weston Pass,2.14,11.35,4,216,23,0.09623431
+Weston Pass,2.15,2.45,7,557,4,0.007130125
+Weston Pass,2.16,13.1,6,386,19,0.04691358
+Weston Pass,2.17,3.05,2,60,7,0.104477612
+Weston Pass,2.18,2.5,8,1057,3,0.002830189
+Weston Pass,2.19,3.95,5,137,15,0.098684211
+Weston Pass,2.2,10.15,13,723,53,0.068298969
+Hoosier Pass - East,1.1,1.45,7,689,28,0.039051604
+Hoosier Pass - East,1.2,13.15,6,257,2,0.007722008
+Hoosier Pass - East,1.3,6.05,5,79,17,0.177083333
+Hoosier Pass - East,1.4,3.2,10,870,22,0.024663677
+Hoosier Pass - East,1.5,18.5,4,542,139,0.204111601
+Hoosier Pass - East,1.6,5.15,4,858,66,0.071428571
+Hoosier Pass - East,1.7,1.95,11,929,90,0.088321884
+Hoosier Pass - East,1.8,9.85,8,730,7,0.009497965
+Hoosier Pass - East,1.9,0.5,6,843,103,0.108879493
+Hoosier Pass - East,1.1,2.6,11,593,261,0.305620609
+Hoosier Pass - East,1.11,7.7,8,583,0,0
+Hoosier Pass - East,1.12,4.25,8,1248,4,0.003194888
+Hoosier Pass - East,1.13,5,12,863,4,0.00461361
+Hoosier Pass - East,1.14,8.85,3,321,0,0
+Hoosier Pass - East,1.15,4.75,3,425,1,0.002347418
+Hoosier Pass - East,1.16,6.45,9,534,80,0.13029316
+Hoosier Pass - East,1.17,1.25,7,402,27,0.062937063
+Hoosier Pass - East,1.18,3.6,4,294,872,0.747855918
+Hoosier Pass - East,2.1,5.45,6,1531,23,0.014800515
+Hoosier Pass - East,2.2,1.05,3,715,22,0.029850746
+Hoosier Pass - East,2.3,1.65,7,475,14,0.028629857
+Hoosier Pass - East,2.4,2.5,4,635,94,0.128943759
+Hoosier Pass - East,2.5,1.85,9,576,10,0.017064846
+Hoosier Pass - East,2.6,6.45,5,465,13,0.027196653
+Hoosier Pass - East,2.7,3.5,7,602,38,0.059375
+Hoosier Pass - East,2.8,12.8,6,782,15,0.018820577
+Hoosier Pass - East,2.9,6.2,6,318,158,0.331932773
+Hoosier Pass - East,2.1,12.1,6,731,17,0.022727273
+Hoosier Pass - East,2.11,12.75,7,663,48,0.067510549
+Hoosier Pass - East,2.12,13.45,7,599,75,0.111275964
+Hoosier Pass - West,1.1,4.9,9,172,72,0.295081967
+Hoosier Pass - West,1.2,19.4,5,546,80,0.127795527
+Hoosier Pass - West,1.3,21.1,4,389,140,0.264650284
+Hoosier Pass - West,1.4,21.3,6,369,2,0.005390836
+Hoosier Pass - West,1.5,23.2,3,484,33,0.063829787
+Hoosier Pass - West,1.6,6.3,5,209,177,0.458549223
+Hoosier Pass - West,1.7,15.7,10,800,10,0.012345679
+Hoosier Pass - West,2.1,17.7,8,394,106,0.212
+Hoosier Pass - West,2.2,5.7,2,266,283,0.515482696
+Hoosier Pass - West,2.3,17.5,5,36,91,0.716535433
+Hoosier Pass - West,2.4,3.8,5,581,7,0.011904762
+Hoosier Pass - West,2.5,13,2,461,255,0.356145251
+Hoosier Pass - West,2.6,4.7,5,142,99,0.410788382
+Hoosier Pass - West,2.7,13.8,3,271,133,0.329207921
+Hoosier Pass - West,2.8,14.5,9,652,118,0.153246753
+Hoosier Pass - West,2.9,7.6,10,526,282,0.349009901
+Hoosier Pass - West,3.1,14.2,8,652,904,0.580976864
+Hoosier Pass - West,3.2,10.45,4,257,27,0.095070423
+Hoosier Pass - West,3.3,1.4,6,525,60,0.102564103
+Hoosier Pass - West,3.4,3.85,4,214,106,0.33125
+Hoosier Pass - West,3.5,1.7,11,305,72,0.190981432
+Hoosier Pass - West,3.6,6.65,7,115,522,0.819466248
+Hoosier Pass - West,3.7,17.65,2,1010,314,0.237160121
+Hoosier Pass - West,3.8,4.85,11,315,36,0.102564103
+Hoosier Pass - West,3.9,9,4,283,54,0.160237389
+Hoosier Pass - West,3.1,12.3,8,462,22,0.045454545
+Hoosier Pass - West,3.11,7.95,6,549,95,0.147515528
+Hoosier Pass - West,3.12,5.7,15,377,6,0.015665796
+Hoosier Pass - West,3.13,2.5,3,258,78,0.232142857
+Hoosier Pass - West,3.14,8.5,8,302,56,0.156424581
