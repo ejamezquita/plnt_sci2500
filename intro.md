@@ -1,4 +1,4 @@
-# Data Science for Plant Science
+# Data Science for Life Sciences I
 
 From multi-omics sequencing to precision health medicine, from geographical information systems to digital agriculture, life sciences in general face mountains of data that must be efficiently analyzed and summarized. With recent technological advances, we are now able to collect precise information of gene expression levels across tissues, molecular structure of proteins, minute soil and climate variations across time and space, detailed canopy and pasture drone imagery, spatial organization of cells, swarms, herds, and people at different scales, etc. As science and technology transition into a data-driven era, meaningful interpretation of these large datasets is a limiting factor. The solutions to grand societal challenges we face lie in data science. 
 
