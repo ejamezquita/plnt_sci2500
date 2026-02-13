@@ -15,13 +15,13 @@ project:
     - mizzou
   authors: 
     - name: Erik Amézquita
-      corresponding: true
+      corresponding: false
       orcid: https://orcid.org/0000-0002-9837-0397
       affiliations:
         - id: mu
           institution: University of Missouri
           department: Division of Plant Science and Technology
-      email: eah4d***@***missouri(dot)edu
+      email: eah4d@missouri.edu
   github: https://github.com/ejamezquita/plnt_sci2500
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   settings:
@@ -84,7 +84,7 @@ project:
       children:
         - file: Day 14/Day-14_InClass_Online_Resources-STUDENT.ipynb
         - file: Day 14/Day-14_PreClass_Online_Resources-STUDENT.ipynb
-    - title: Day 15 - pValues and Correlations
+    - title: Day 15 - p-Values and Correlations
       children:
         - file: Day 15/Day-15_InClass_CorrelatingPollenContamination-STUDENT.ipynb
         - file: Day 15/Day-15_PreClass_pValuesAndCorrelations-STUDENT.ipynb
@@ -92,7 +92,7 @@ project:
       children:
         - file: Day 16/Day-16_InClass_LinearRegression-STUDENT.ipynb
         - file: Day 16/Day-16_PreClass_LinearRegressionR2-STUDENT.ipynb
-    - title: Day 17 - tTests
+    - title: Day 17 - t-Tests
       children:
         - file: Day 17/Day-17_InClass_WCRsAndTtests-STUDENT.ipynb
         - file: Day 17/Day-17_PreClass_ttests-STUDENT.ipynb
@@ -108,7 +108,10 @@ project:
 site:
   template: book-theme
   options:
+    logo: null
     logo_text: PLNT_SCI 2500 Spring 2026
     hide_toc: false
+    hide_outline: true
+    edit_url: null
   #   favicon: favicon.ico
   #   logo: site_logo.png
