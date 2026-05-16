@@ -27,7 +27,7 @@ The main goal of the course is for students to have agency to explore, wrangle, 
 
 ---
 
-## Instructor Information {#instructor-information}
+## Instructor Information
 
 ### Lead Instructor
 
