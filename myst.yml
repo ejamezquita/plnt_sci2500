@@ -93,18 +93,46 @@ project:
       children:
         - file: Day 16/Day-16_PreClass_LinearRegressionR2-STUDENT.ipynb
         - file: Day 16/Day-16_InClass_LinearRegression-STUDENT.ipynb
-    - title: Day 17 - t-Tests
+    - title: Day 17 - Bootstrapping
       children:
-        - file: Day 17/Day-17_PreClass_ttests-STUDENT.ipynb
-        - file: Day 17/Day-17_InClass_WCRsAndTtests-STUDENT.ipynb
-    - title: Day 18 - Visual statistics
+        - file: Day 17/Day-17_PreClass_HypothesesStandardErrorsBootstrapping-STUDENT.ipynb
+        - file: Day 17/Day-17_InClass_ConsumedWeevils-STUDENT.ipynb
+    - title: Day 18 - Confidence Intervals
       children:
-        - file: Day 18/Day-18_PreClass_VisualStatistics-STUDENT.ipynb
-        - file: Day 18/Day-18_InClass_ChirstmasTubeWorms-STUDENT.ipynb
-    - title: Homeworks
+        - file: Day 18/Day-18_PreClass_BootstrappingConfidenceIntervals_CLT-STUDENT.ipynb
+        - file: Day 18/Day-18_InClass_ConfidentlySwitchgrass-STUDENT.ipynb
+    - title: Day 19 - One- and two-sample tests
       children:
-        - file: Homeworks/HW-01_IntroToPythonSunflowers-STUDENT.ipynb
-        - file: Homeworks/HW-02_MatplotlibNumpy-STUDENT.ipynb
+        - file: Day 19/Day-19_PreClass_TwoSampleTests-STUDENT.ipynb
+        - file: Day 19/Day-19_InClass_WCRsWelchTtests-STUDENT.ipynb
+    - title: Day 20 - Q-Q Plots
+      children:
+        - file: Day 20/Day-20_PreClass_QQPlots-STUDENT.ipynb
+        - file: Day 20/Day-20_InClass_ChirstmasTubeWorms-STUDENT.ipynb
+    - title: Day 21 - p-hacking and adjustments
+      children:
+        - file: Day 21/Day-21_PreClass_pHackingMultipleTesting-STUDENT.ipynb
+        - file: Day 21/Day-21_InClass_pHackingSwitchgrass-STUDENT.ipynb
+    - title: Day 22 - Stats Recap
+      children:
+        - file: Day 22/Day-22_PreClass_StatsRecap-STUDENT.ipynb
+        - file: Day 22/Day-22_InClass_StatsRecap-STUDENT.ipynb
+    - title: Day 23 - Multiple sample tests
+      children:
+        - file: Day 23/Day-23_PreClass_MultipleTesting-STUDENT.ipynb
+        - file: Day 23/Day-23_InClass_MultipleTesting-STUDENT.ipynb
+    - title: Day 24 - Control tests
+      children:
+        - file: Day 24/Day-24_PreClass_ControlTests-STUDENT.ipynb
+        - file: Day 24/Day-24_InClass_ControlTesting-STUDENT.ipynb
+    - title: Day 25 - Confidence Bands
+      children:
+        - file: Day 25/Day-25_PreClass_ConfidencePredictionBands-STUDENT.ipynb
+        - file: Day 25/Day-25_InClass_AllometryConfidenceBands-STUDENT.ipynb
+    - title: Day 26 - Nonlinear Modeling
+      children:
+        - file: Day 26/Day-26_PreClass_NonLinearFits-STUDENT.ipynb
+        - file: Day 26/Day-26_InClass_ImperialShags-STUDENT.ipynb
     
 site:
   template: book-theme
